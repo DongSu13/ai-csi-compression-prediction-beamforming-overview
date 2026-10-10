@@ -32,7 +32,7 @@ Beam selection uses a fixed codebook, aiming to retain high received power with 
 
 Simulation evaluations indicate that a shared model can improve future beam power retention over an adapted independent cascade with the same feedback and candidate scanning budgets, while introducing tradeoffs in future CSI prediction metrics.
 
-The results apply to the evaluated simulation scenarios. Continuous execution still faces latency and queueing constraints. Real RF and real-time deployment validation have not been completed, and the results do not establish superiority across all three tasks.
+The results apply to the evaluated simulation scenarios.
 
 ## Related Public Resources
 
