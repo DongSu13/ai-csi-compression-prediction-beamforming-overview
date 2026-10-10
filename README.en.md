@@ -6,6 +6,8 @@ This project explores joint channel state information (CSI) compression, future 
 
 This repository currently provides a project overview as an entry point for future public material. Source code, datasets, model weights and detailed experiment archives have not been released.
 
+The source code is still being updated and will be made public at a later stage.
+
 ## Research Question
 
 User equipment measures CSI and feeds it back to a base station. Feedback bandwidth is limited, and the channel changes with motion. The project studies how compressed historical information can support CSI reconstruction and prediction while selecting a small set of candidate beams for a future time.
